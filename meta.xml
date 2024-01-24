@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<app version="1">
+	<name>Nixtendont</name>
+	<coder>lasagnapapa, FIX94, crediar</coder>
+	<version>1x</version>
+	<release_date>202301230000000</release_date>
+	<short_description>Gamecube Loader</short_description>
+	<long_description>Commiters: lasagnapapa, GerbilSoft, JoostinOnline, GreyRogue, Howard, Cyan 
+
+ Project website: https://github.com/lasagnapapa/nixtendont
+
+Nintendont allows you to run GameCube games on a Wii or Wii U. This is a build for my custom modchipped Wii U</long_description>
+	<no_ios_reload/>
+	<ahb_access/>
+</app>
